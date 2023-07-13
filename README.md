@@ -1,7 +1,6 @@
 # Big Data Final Project
 
-- name: 秦子晋（Zijin Qin）
-- id: 2020191204
+- name: Zijin Qin
 
 ### anime.csv
 
